@@ -1,5 +1,5 @@
 # Diagrama de Clase 'Vehiculo'
-![Welcome](https://github.com/SantiagoLesait/images/blob/main/Diagrama.png?raw=true)
+![Diagrama](https://github.com/SantiagoLesait/images/blob/main/Diagrama.png?raw=true)
 
 
 # Ejercicio-Trainee-Onready
