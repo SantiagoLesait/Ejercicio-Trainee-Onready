@@ -2,7 +2,7 @@
 El archivo 'Ejercicio.js' contiene todo lo que se solicita, solo se necesita correrlo en un editor. El archivo 'Ordenar.js' contiene una funcion de mi autoria para ordenar un array de Integers de mayor a menor
 
 # Diagrama de Clase 'Vehiculo'
-![Diagrama](https://github.com/SantiagoLesait/images/blob/main/Diagrama.png?raw=true)
+![Diagrama](https://github.com/SantiagoLesait/Ejercicio-Trainee-Onready/blob/main/Diagrama.png?raw=true)
 
 
 # Ejercicio-Trainee-Onready
