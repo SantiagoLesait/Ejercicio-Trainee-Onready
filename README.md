@@ -1,3 +1,7 @@
+# Diagrama de Clase 'Vehiculo'
+(https://github.com/SantiagoLesait/images/blob/main/Diagrama.png?raw=true)
+
+
 # Ejercicio-Trainee-Onready
 Ejercicio Trainee Onready
 Imaginemos una concesionaria de autos y motos.
